@@ -65,7 +65,7 @@ const App = () => {
   return (
 <div className="bg-neutral-900 font-roboto">
   <div className="flex flex-col justify-center content-center items-center">
-        <div className="bg-white mx-12 px-4 py-8 flex flex-col justify-center items-center content-center">
+        <div className="bg-white mx-4 md:mx-12 px-4 py-8 flex flex-col justify-center items-center content-center">
           <h1 className="text-5xl text-black text-center py-4">Search photos from Unplash API</h1>
           <h2 className="text-2xl hover:underline duration-500 "><a href="http://" target="_blank" rel="noopener noreferrer">by Marcelo Zuza</a></h2>
 
